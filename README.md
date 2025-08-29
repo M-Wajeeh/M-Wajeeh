@@ -23,7 +23,7 @@
 
 ## 🧠 Core Competencies
 
-### 📊 Data Analytics### 📊 Data Analytics & Engineering
+### 📊 Data Analytics & Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
