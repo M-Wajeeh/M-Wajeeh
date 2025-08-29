@@ -16,19 +16,9 @@
 ---
 
 ## 🧑‍🎓 About Me
-Final-year **Artificial Intelligence student at NUML Islamabad**, passionate about **Data Analytics** and **AI-powered systems**.  
-Skilled in **Python, SQL, Power BI, and Excel**, with experience in building dashboards (Asia Cup Report, UPI Analysis), performing EDA, and deploying ML solutions.  
-
-Currently exploring **Generative AI, LLMs, and agentic workflows** with **LangChain, Hugging Face, and RAG pipelines**.  
-
----
-
-## 🔬 Current Focus Areas
-- Building **interactive dashboards** in Power BI & Excel  
-- Exploring **multi-agent systems** with **LangChain & LangGraph**  
-- Applying **RAG techniques** for LLM-powered apps  
-- Strengthening skills in **MLOps (Docker, FastAPI)**  
-
+- Final-year BS Artificial Intelligence student at NUML.Skilled in **Python, SQL, Power BI, Excel** for data analysis and reporting.
+- Hands-on experience in **ETL pipelines** for cleaning, transforming, and loading data.
+- Currently exploring **ELT approaches** for modern cloud data warehouses (e.g., BigQuery, Snowflake).
 ---
 
 ## 🧠 Core Competencies
@@ -48,6 +38,11 @@ Currently exploring **Generative AI, LLMs, and agentic workflows** with **LangCh
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9DC3D?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
+## 🔹 Tech Stack
+- **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+- **Tools**: Power BI, Excel
+- **Data Engineering**: ETL pipelines, exploring ELT
+- **Version Control**: Git & GitHub
 
 ## 🏆 Certifications & Programs
 - **McKinsey Forward Program** – Selected Participant (2025 Cohort)  
