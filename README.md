@@ -55,7 +55,7 @@
 - **McKinsey Forward Program** – Selected Participant (2025 Cohort)  
 - **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)  
 - **Excel Specialization** – Coursera  
-- **Complete Data Analytics Bootcamp** – Udemy (Ongoing)  
+- **Complete Data Analytics Bootcamp** – Udemy  
 
 ---
 
