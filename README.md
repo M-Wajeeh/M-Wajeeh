@@ -32,7 +32,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Tableau Prep](https://img.shields.io/badge/Tableau%20Prep-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-Process-017CEE?style=for-the-badge&logo=azure-data-factory&logoColor=white)
-![ELT](https://img.shields.io/badge/ELT-Data%20Warehouses-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
 
 ### 🤖 AI / ML (Learning & Projects)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
