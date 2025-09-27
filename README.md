@@ -58,6 +58,8 @@
   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/6OTSJP3N4BMB)
 - **Complete Data Analytics Bootcamp** – Udemy
   [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0813c677-3503-443f-8b7f-e9aace8c30bc.pdf)
+- **Completed Job Simulation Deliotte** – The Forage
+   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
 ---
 
 ## 📊 My GitHub Insights
