@@ -52,10 +52,12 @@
 
 ## 🏆 Certifications & Programs
 - **McKinsey Forward Program** – Selected Participant (2025 Cohort)  
-- **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)  
-- **Excel Specialization** – Coursera  
-- **Complete Data Analytics Bootcamp** – Udemy  
-
+- **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/3Z7J6IKV58RQ) 
+- **Excel Specialization** – Coursera
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/6OTSJP3N4BMB)
+- **Complete Data Analytics Bootcamp** – Udemy
+  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0813c677-3503-443f-8b7f-e9aace8c30bc.pdf)
 ---
 
 ## 📊 My GitHub Insights
