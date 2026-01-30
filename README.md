@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I’m Wajeeh Ul Hassan</h1>
 <h3 align="center">
-AI & Data Analytics Student | Machine Learning | MLOps | Python | SQL | Power BI
+Data Analytics  | Machine Learning | MLOps | Python | SQL | Power BI
 </h3>
 
 <p align="center">
@@ -44,8 +44,19 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 -  Cloud-based ML systems (AWS / GCP fundamentals)  
 -  **Deep Learning & Generative AI**  
 -  Model performance tracking & drift detection  
--  Scalable data & ML architectures  
+-  Scalable data & ML architectures
 
+  ## Career Interests
+- Data Analyst / Junior Data Scientist
+- Machine Learning Engineer (Entry-Level)
+- MLOps Engineer (Junior / Trainee)
+
+
+## Currently Learning
+- Advanced **MLOps practices** (model monitoring, pipelines)
+- **Dockerized ML deployments**
+- CI/CD automation for ML workflows
+- Cloud fundamentals for ML systems
 ---
 
 ## Core Competencies
