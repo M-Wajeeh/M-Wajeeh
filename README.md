@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hello, I’m Wajeeh Ul Hassan</h1>
-<h3 align="center">AI Student | Data Analytics | Python | SQL | Power BI | Tableau | Machine Learning | Generative AI</h3>
+<h3 align="center">
+AI & Data Analytics Student | Machine Learning | MLOps | Python | SQL | Power BI
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hassanwajeeh" target="_blank">
@@ -16,59 +18,105 @@
 ---
 
 ## 🧑‍🎓 About Me
-- Final-year **BS Artificial Intelligence** student at NUML.  
-- Skilled in **Python, SQL, Power BI, Excel, Tableau** for data analysis and reporting.  
-- Hands-on experience in **ETL pipelines** for cleaning, transforming, and loading data.  
-- Exploring **ELT approaches** for modern cloud data warehouses (e.g., BigQuery, Snowflake).  
+I’m a **final-year BS Artificial Intelligence student at NUML**, passionate about building **end-to-end data and AI solutions** — from raw data to deployed models.
+
+I work at the intersection of **Data Analytics, Machine Learning, and MLOps**, focusing on:
+- Turning messy data into **actionable insights**
+- Building **reproducible ML pipelines**
+- Learning how ML systems scale in **real-world production**
+
+I enjoy working with data, experimenting with models, and gradually moving toward **production-ready AI systems**.
+
+---
+
+## 🎯 Current Focus
+- 📊 **Data Analytics & BI** using Python, SQL, Power BI, Tableau  
+- 🤖 **Machine Learning** with scikit-learn (classification, regression, clustering)  
+- 🧪 **Model experimentation & evaluation**  
+- 🔁 **ML pipelines & reproducibility** using Git, DVC  
+- 🐳 **Containerization basics** with Docker  
+- ⚙️ **CI/CD foundations** using GitHub Actions  
+
+---
+
+## 🚀 Future Focus
+- 📦 Advanced **MLOps workflows** (model versioning, monitoring, automation)  
+- ☁️ Cloud-based ML systems (AWS / GCP fundamentals)  
+- 🧠 **Deep Learning & Generative AI**  
+- 🔍 Model performance tracking & drift detection  
+- 🏗️ Scalable data & ML architectures  
 
 ---
 
 ## 🧠 Core Competencies
-### 📊 Data Analytics & Engineering
+
+### 📊 Data Analytics & Visualization
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Tableau Prep](https://img.shields.io/badge/Tableau%20Prep-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Process-017CEE?style=for-the-badge&logo=azure-data-factory&logoColor=white)
-
-### 🤖 AI / ML (Learning & Projects)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-- Learning and building projects in **Machine Learning, Deep Learning, and Artificial Neural Networks (ANNs)**.  
-- Experienced in **Python for data analysis and ML models**.  
 
 ---
 
-## 🔹 Tech Stack
-- **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-- **Tools**: Power BI, Tableau, Excel  
-- **Data Engineering**: ETL pipelines, exploring ELT  
-- **Version Control**: Git & GitHub  
+### 🤖 Machine Learning & AI
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- Data preprocessing & feature engineering  
+- Supervised & unsupervised ML  
+- Model evaluation & validation  
+- ML experimentation & comparison  
+
+---
+
+### 🔁 MLOps & Engineering Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+- Version control for **code & data**
+- Reproducible ML pipelines
+- Model & dataset tracking
+- Containerized ML applications
+- CI/CD fundamentals for ML workflows  
+
+---
+
+## 🔹 Tech Stack Summary
+- **Languages**: Python, SQL  
+- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn  
+- **BI Tools**: Power BI, Tableau, Excel  
+- **MLOps**: Git, GitHub, DVC, Docker, GitHub Actions  
+- **Concepts**: ETL/ELT, ML pipelines, model lifecycle  
 
 ---
 
 ## 🏆 Certifications & Programs
 - **McKinsey Forward Program** – Selected Participant (2025 Cohort)  
-- **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)
-  [View Certificate](https://www.coursera.org/account/accomplishments/verify/3Z7J6IKV58RQ) 
-- **Excel Specialization** – Coursera
-  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/6OTSJP3N4BMB)
-- **Complete Data Analytics Bootcamp** – Udemy
-  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0813c677-3503-443f-8b7f-e9aace8c30bc.pdf)
-- **Completed Job Simulation Deliotte** – The Forage
-   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
+- **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/3Z7J6IKV58RQ)  
+- **Excel Specialization** – Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/6OTSJP3N4BMB)  
+- **Complete Data Analytics Bootcamp** – Udemy  
+  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0813c677-3503-443f-8b7f-e9aace8c30bc.pdf)  
+- **Deloitte Job Simulation** – The Forage  
+  [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
+
 ---
 
-## 📊 My GitHub Insights
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight" />
 </p>
