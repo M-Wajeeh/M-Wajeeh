@@ -29,14 +29,11 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 
 ---
 
-## Current Focus
--  **Data Analytics & BI** using Python, SQL, Power BI, Tableau  
--  **Machine Learning** with scikit-learn (classification, regression, clustering)  
--  **Model experimentation & evaluation**  
--  **ML pipelines & reproducibility** using Git, DVC  
--  **Containerization** with Docker  
--  **CI/CD foundations** using GitHub Actions  
-
+## 📚 Currently Learning
+- Advanced **MLOps practices** (model monitoring, pipelines)
+- **Dockerized ML deployments**
+- CI/CD automation for ML workflows
+- Cloud fundamentals for ML systems
 ---
 
 ## Future Focus
@@ -50,13 +47,6 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 - Data Analyst / Junior Data Scientist
 - Machine Learning Engineer (Entry-Level)
 - MLOps Engineer (Junior / Trainee)
-
-
-## Currently Learning
-- Advanced **MLOps practices** (model monitoring, pipelines)
-- **Dockerized ML deployments**
-- CI/CD automation for ML workflows
-- Cloud fundamentals for ML systems
 ---
 
 ## Core Competencies
@@ -120,20 +110,3 @@ I enjoy working with data, experimenting with models, and gradually moving towar
   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
 
 ---
-
-## GitHub Insights
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
-</p>
-
