@@ -18,7 +18,7 @@ AI & Data Analytics Student | Machine Learning | MLOps | Python | SQL | Power BI
 ---
 
 ## 🧑‍🎓 About Me
-I’m a **final-year BS Artificial Intelligence student at NUML**, passionate about building **end-to-end data and AI solutions** — from raw data to deployed models.
+I’m **Wajeeh Ul Hassan** a **BS Artificial Intelligence graduate** from **NUML**, passionate about building **end-to-end data and AI solutions** from raw data to deployed models.
 
 I work at the intersection of **Data Analytics, Machine Learning, and MLOps**, focusing on:
 - Turning messy data into **actionable insights**
