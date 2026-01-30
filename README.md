@@ -1,122 +1,97 @@
-<h1 align="center">👋 Hello, I’m Wajeeh Ul Hassan</h1>
-<h3 align="center">
-AI & Data Analytics Student | Machine Learning | MLOps | Python | SQL | Power BI
-</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassanwajeeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/M-Wajeeh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:Wajeeh9233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+# Hi 👋, I'm M Wajeeh
 
----
+### AI & Data Analytics Student | Machine Learning | MLOps | Python | SQL | Power BI
 
-## 🧑‍🎓 About Me
-I’m **Wajeeh Ul Hassan** a **BS Artificial Intelligence graduate** from **NUML**, passionate about building **end-to-end data and AI solutions** from raw data to deployed models.
+<img src="https://github.com/M-Wajeeh.png" alt="M Wajeeh" width="150" height="150" style="border-radius: 50%;" />
 
-I work at the intersection of **Data Analytics, Machine Learning, and MLOps**, focusing on:
-- Turning messy data into **actionable insights**
-- Building **reproducible ML pipelines**
-- Learning how ML systems scale in **real-world production**
+</div>
 
-I enjoy working with data, experimenting with models, and gradually moving toward **production-ready AI systems**.
+## 🚀 About Me
 
----
+I’m Wajeeh Ul Hassan a BS Artificial Intelligence graduate from NUML, passionate about building end-to-end data and AI solutions from raw data to deployed models.
 
-## 🎯 Current Focus
-- 📊 **Data Analytics & BI** using Python, SQL, Power BI, Tableau  
-- 🤖 **Machine Learning** with scikit-learn (classification, regression, clustering)  
-- 🧪 **Model experimentation & evaluation**  
-- 🔁 **ML pipelines & reproducibility** using Git, DVC  
-- 🐳 **Containerization basics** with Docker  
-- ⚙️ **CI/CD foundations** using GitHub Actions  
+I work at the intersection of Data Analytics, Machine Learning, and MLOps, focusing on:
 
----
+Turning messy data into actionable insights
+Building reproducible ML pipelines
+Learning how ML systems scale in real-world production
+I enjoy working with data, experimenting with models, and gradually moving toward production-ready AI systems.
 
-## 🚀 Future Focus
-- 📦 Advanced **MLOps workflows** (model versioning, monitoring, automation)  
-- ☁️ Cloud-based ML systems (AWS / GCP fundamentals)  
-- 🧠 **Deep Learning & Generative AI**  
-- 🔍 Model performance tracking & drift detection  
-- 🏗️ Scalable data & ML architectures  
+## 🎓 Education
 
----
+| Institution | Degree | Duration |
+|---|---|---|
+| National University of Modern Languages,Islamabad | Bachelors | 2022-02 - 2026-02 |
 
-## 🧠 Core Competencies
+### Bachelors in Artificial Intelligence 
+*National University of Modern Languages,Islamabad*
 
-### 📊 Data Analytics & Visualization
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+## 💼 Internships
 
----
+| Company | Position | Duration |
+|---|---|---|
+|  |  |  -  |
 
-### 🤖 Machine Learning & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+###  at 
 
-- Data preprocessing & feature engineering  
-- Supervised & unsupervised ML  
-- Model evaluation & validation  
-- ML experimentation & comparison  
+## 🌐 Connect with Me
 
----
+<div align="center">
 
-### 🔁 MLOps & Engineering Tools
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Wajeeh)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/hassanwajeeh)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_m_wajeeh)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 💻 AI/ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;&nbsp;&nbsp;![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;&nbsp;![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;&nbsp;![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### 💻 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 💻 DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 💻 Framework
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 💻 Other
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- Version control for **code & data**
-- Reproducible ML pipelines
-- Model & dataset tracking
-- Containerized ML applications
-- CI/CD fundamentals for ML workflows  
+## 📊 GitHub Stats & Activity
 
----
+<div align="center">
 
-## 🔹 Tech Stack Summary
-- **Languages**: Python, SQL  
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, scikit-learn  
-- **BI Tools**: Power BI, Tableau, Excel  
-- **MLOps**: Git, GitHub, DVC, Docker, GitHub Actions  
-- **Concepts**: ETL/ELT, ML pipelines, model lifecycle  
+![Visitor Count](https://komarev.com/ghpvc/?username=M-Wajeeh&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=M-Wajeeh&theme=default&column=7&margin-w=15&margin-h=15)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+</div>
 
 ---
 
-## 🏆 Certifications & Programs
-- **McKinsey Forward Program** – Selected Participant (2025 Cohort)  
-- **Supervised & Unsupervised Machine Learning** – DeepLearning.AI (Coursera)  
-  [View Certificate](https://www.coursera.org/account/accomplishments/verify/3Z7J6IKV58RQ)  
-- **Excel Specialization** – Coursera  
-  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/6OTSJP3N4BMB)  
-- **Complete Data Analytics Bootcamp** – Udemy  
-  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0813c677-3503-443f-8b7f-e9aace8c30bc.pdf)  
-- **Deloitte Job Simulation** – The Forage  
-  [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
+<div align="center">
 
----
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight" />
-</p>
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=M-Wajeeh&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
