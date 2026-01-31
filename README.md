@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I’m Wajeeh Ul Hassan</h1>
+<h1 align="center"> Hello, I’m Wajeeh Ul Hassan</h1>
 <h3 align="center">
 Data Analytics  | Machine Learning | MLOps | Python | SQL | Power BI
 </h3>
@@ -29,7 +29,7 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - Advanced **MLOps practices** (model monitoring, pipelines)
 - **Dockerized ML deployments**
 - CI/CD automation for ML workflows
