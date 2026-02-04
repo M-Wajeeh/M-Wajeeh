@@ -110,3 +110,46 @@ I enjoy working with data, experimenting with models, and gradually moving towar
   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
 
 ---
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=M-Wajeeh&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Wajeeh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Wajeeh&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Wajeeh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
