@@ -111,17 +111,6 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 
 ---
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
 ## GitHub Streak
 
 <p align="center">
@@ -137,19 +126,12 @@ I enjoy working with data, experimenting with models, and gradually moving towar
 </p>
 
 ---
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Wajeeh&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## Profile Views
+## GitHub Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Wajeeh&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=default&hide_border=true" height="160"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=default&hide_border=true" height="160"/>
+</p>
