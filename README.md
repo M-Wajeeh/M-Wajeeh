@@ -110,28 +110,3 @@ I enjoy working with data, experimenting with models, and gradually moving towar
   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
 
 ---
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Wajeeh&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Wajeeh&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-## GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=default&hide_border=true" height="160"/>
-</p>
