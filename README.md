@@ -110,3 +110,7 @@ I enjoy working with data, experimenting with models, and gradually moving towar
   [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d679637ede33c10184a483_1758983018163_completion_certificate.pdf)
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
