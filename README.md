@@ -1,135 +1,96 @@
-````html
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=0A84FF&center=true&vCenter=true&width=800&lines=Wajeeh+Ul+Hassan;Data+Analyst+%7C+ML+Engineer+%7C+MLOps;Turning+Data+Into+Scalable+AI+Systems;From+Insight+→+Model+→+Production+🚀" />
-</h1>
+### Hi, I'm Wajeeh Ul Hassan 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassanwajeeh">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/M-Wajeeh">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:Wajeeh9233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
+#### Glad to see you here!
+
+<p>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=M-Wajeeh&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=0A84FF"/>
+  &nbsp;
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/M-Wajeeh/M-Wajeeh?logo=markdown&label=LAST+UPDATE&color=0A84FF&style=flat">
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
+<img align="right" height="270px" alt="AI GIF" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+
+I'm a **BS Artificial Intelligence graduate** passionate about building **data-driven, scalable ML systems**.
+I love turning raw data into real-world AI solutions — from exploration to production.
+
+-  Currently building end-to-end ML pipelines with MLOps best practices
+-  Exploring model monitoring, drift detection & cloud-native ML
+-  Ask me about Machine Learning, Data Analytics, or Docker + DVC
+-  2026 Goals: Production-grade ML architecture & open-source AI contributions
+-  Fun fact: A single ML model can process more patterns than a human brain ever could
+
+### Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/hassanwajeeh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/M-Wajeeh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:Wajeeh9233@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
----
-
-## 🧠 Professional Identity
-
-I am a **BS Artificial Intelligence graduate** focused on designing  
-**data-driven, scalable Machine Learning systems**.
-
-My expertise spans across:
-
-- 📊 **Data Analytics** – Extracting insights from complex datasets  
-- 🤖 **Machine Learning** – Building predictive & classification models  
-- ⚙️ **MLOps Engineering** – Deploying & maintaining ML systems in production  
-
-I aim to bridge the gap between **analysis, modeling, and real-world deployment**.
+<br>
 
 ---
 
-# 🔄 End-to-End ML Workflow
+### Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+#### What I Work With
+
+**Data Analytics:**
+- **Python** – Core language for data wrangling, automation & scripting
+- **MS SQL Server** – Querying and managing relational databases
+- **Power BI & Tableau** – Building interactive dashboards & BI reports
+- **Excel** – Advanced data analysis, pivoting & reporting
+
+**Machine Learning:**
+- **NumPy & Pandas** – Data manipulation and numerical computing
+- **Scikit-learn** – Supervised & unsupervised ML model development
+- **Matplotlib** – Data visualization and model evaluation plots
+
+**MLOps & Engineering:**
+- **Docker** – Containerizing ML applications for portable deployments
+- **Git & GitHub** – Version control and collaborative development
+- **GitHub Actions** – Automated CI/CD pipelines for ML workflows
+- **DVC** – Data & model versioning for reproducible experiments
+
+---
+
+## End-to-End ML Workflow
 
 ```text
-Raw Data
-   ↓
-Data Cleaning & EDA
-   ↓
-Feature Engineering
-   ↓
-Model Training & Evaluation
-   ↓
-Experiment Tracking (DVC)
-   ↓
-Containerization (Docker)
-   ↓
-CI/CD (GitHub Actions)
-   ↓
-Deployment & Monitoring
-````
+Raw Data → Cleaning & EDA → Feature Engineering → Model Training → Experiment Tracking (DVC) → Docker → CI/CD → Production
+```
 
 ---
 
-# 🛠 Technical Stack
-
-## 📊 Data Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,postgres" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-* ETL / ELT workflows
-* Dashboard development
-* Business intelligence reporting
-* Data cleaning & transformation
-
----
-
-## 🤖 Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-</p>
-
-* Supervised & Unsupervised Learning
-* Feature Engineering
-* Model Evaluation & Validation
-* ML experimentation & comparison
-
----
-
-## ⚙️ MLOps & Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-<img src="https://img.shields.io/badge/DVC-13ADC7?style=flat"/>
-<img src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat"/>
-</p>
-
-* Reproducible ML pipelines
-* Version control for code & data
-* Containerized ML systems
-* CI/CD automation
-* Model lifecycle management
-
----
-
-# 📈 GitHub Analytics
+##GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=github-dark&hide_border=true" height="170"/>
 </p>
-
----
-
-# 🎯 2026 Focus
-
-* Advanced MLOps workflows
-* Model monitoring & drift detection
-* Cloud-native ML systems
-* Production-grade ML architecture
-* Contributing to AI open-source
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Wajeeh&color=0A84FF&style=flat-square&label=Profile+Views"/>
-</p>
-```
