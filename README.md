@@ -13,7 +13,7 @@
 <img align="right" height="270px" alt="AI GIF" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
 
 I'm a **BS Artificial Intelligence graduate** passionate about building **data-driven, scalable ML systems**.
-I love turning raw data into real-world AI solutions — from exploration to production.
+I love turning raw data into real-world AI solutions from exploration to production.
 
 -  Currently building end-to-end ML pipelines with MLOps best practices
 -  Exploring model monitoring, drift detection & cloud-native ML
@@ -88,9 +88,8 @@ Raw Data → Cleaning & EDA → Feature Engineering → Model Training → Exper
 
 ---
 
-##GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=github-dark&hide_border=true" height="170"/>
 </p>
