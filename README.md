@@ -18,7 +18,7 @@ I love turning raw data into real-world AI solutions from exploration to product
 -  Currently building end-to-end ML pipelines with MLOps best practices
 -  Exploring model monitoring, drift detection & cloud-native ML
 -  Ask me about Machine Learning, Data Analytics, or Docker + DVC
--  2026 Goals: Production-grade ML architecture & open-source AI contributions
+-  2026 Goals: Production-grade ML architecture & start learning Agentic workflows
 -  Fun fact: A single ML model can process more patterns than a human brain ever could
 
 ### Connect with me
@@ -57,6 +57,7 @@ I love turning raw data into real-world AI solutions from exploration to product
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 #### What I Work With
