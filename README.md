@@ -91,6 +91,15 @@ Raw Data → Cleaning & EDA → Feature Engineering → Model Training → Exper
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Wajeeh&theme=github-dark&hide_border=true" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=M-Wajeeh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Wajeeh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=M-Wajeeh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
