@@ -10,17 +10,16 @@
 
 ---
 
-<img align="right" height="270px" alt="AI GIF" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+<img align="right" height="270px" alt="Keyboard Cat" src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif"/>
 
-I'm a **BS Artificial Intelligence graduate** passionate about building **data-driven, scalable ML systems**.
-I love turning raw data into real-world AI solutions from exploration to production.
+I'm a **BS Artificial Intelligence** graduate. Currently an **AI Engineering Intern at CESAI, EME College Rawalpindi** passionate about building **AI-powered applications**, **agentic systems**, and **production-ready ML workflows**.
 
--  Currently building end-to-end ML pipelines with MLOps best practices
--  Exploring model monitoring, drift detection & cloud-native ML
--  Ask me about Machine Learning, Data Analytics, or Docker + DVC
--  2026 Goals: Production-grade ML architecture & start learning Agentic workflows
--  Fun fact: A single ML model can process more patterns than a human brain ever could
-
+-  Building AI agents and multi-agent workflows with LangChain, LangGraph, and OpenAI APIs
+- Developing end-to-end ML pipelines with Docker, DVC, MLflow, and GitHub Actions
+- Exploring agentic AI, LLM orchestration, and production-grade AI systems
+- Ask me about AI agents, machine learning, MLOps, or data analytics
+- **2026 Goal**: Win hackathons and Build scalable AI systems that combine LLMs, automation, and reliable ML infrastructure
+**Fun fact**: I've probably spent more time debugging one missing comma than watching an entire Netflix series.
 ### Connect with me
 
 <p>
@@ -41,32 +40,15 @@ I love turning raw data into real-world AI solutions from exploration to product
 
 ### Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> </p>
 
 #### What I Work With
 
-**Data Analytics:**
-- **Python** – Core language for data wrangling, automation & scripting
-- **MS SQL Server** – Querying and managing relational databases
-- **Power BI & Tableau** – Building interactive dashboards & BI reports
-- **Excel** – Advanced data analysis, pivoting & reporting
+**AI-Engineering and GenAI**
+- **Python** – Core language for AI development, automation, and backend workflows
+- **OpenAI API** – Building LLM-powered applications and AI assistants
+- **LangChain & LangGraph** – Developing AI agents, multi-agent systems, and research workflows
+- **Prompt Engineering & Agent Design** – Tool-using agents, reasoning workflows, and structured outputs
 
 **Machine Learning:**
 - **NumPy & Pandas** – Data manipulation and numerical computing
