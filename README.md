@@ -19,7 +19,7 @@ I'm a **BS Artificial Intelligence** graduate. Currently an **AI Engineering Int
 - Exploring agentic AI, LLM orchestration, and production-grade AI systems
 - Ask me about AI agents, machine learning, MLOps, or data analytics
 - **2026 Goal**: Win hackathons and Build scalable AI systems that combine LLMs, automation, and reliable ML infrastructure
-**Fun fact**: I've probably spent more time debugging one missing comma than watching an entire Netflix series.
+- **Fun fact**: I've probably spent more time debugging one missing comma than watching an entire Netflix series.
 ### Connect with me
 
 <p>
